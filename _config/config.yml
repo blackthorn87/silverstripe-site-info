@@ -1,0 +1,5 @@
+name: SiteInfoConfig
+---
+SiteConfig:
+  extensions:
+    - SiteInfoConfig
